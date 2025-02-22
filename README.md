@@ -17,10 +17,21 @@ Enthusiastic and self-motivated professional driven by a genuine passion for acq
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!--<img align="center" height="200" src="https://25.media.tumblr.com/tumblr_m7uhjxCqHn1qekvhfo1_500.gif"  />
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sam221104.Sam221104&left_color=aquamarine&right_color=mediumaquamarine"  />
--->
+
+###
+
+<img align="right" height="200" src="https://25.media.tumblr.com/tumblr_m7uhjxCqHn1qekvhfo1_500.gif"  />
+
+###
+
+<div align="right">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width:520px; display: block;" />
+</div>
+
+###
+
 
 
 ### 🔝 Top Contributed Repo
@@ -30,15 +41,12 @@ Enthusiastic and self-motivated professional driven by a genuine passion for acq
 [![](https://visitcount.itsvg.in/api?id=Sam221104&icon=7&color=0)](https://visitcount.itsvg.in)
 
 
-<img src="https://raw.githubusercontent.com/Sam221104/Sam221104/output/snake.svg" alt="Snake animation" />
-
-###
 
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sam221104/Sam221104/output/github-snake-dark.svg" />
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sam221104/Sam221104/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sam221104/Sam221104/output/github-snake.svg" />
+</picture>
 
-
-###
-
-
-###
