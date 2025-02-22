@@ -18,8 +18,9 @@ Enthusiastic and self-motivated professional driven by a genuine passion for acq
 
 ### ✍️ Random Dev Quote
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sam221104.Sam221104&left_color=royalblue&right_color=paleturquoise&left_text=Stalker%20Count"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sam221104.Sam221104&left_color=royalblue&right_color=orchid&left_text=Stalker%20Count"  />
 
+###
 ###
 ###
 
