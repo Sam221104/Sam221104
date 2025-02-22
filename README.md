@@ -22,13 +22,13 @@ Enthusiastic and self-motivated professional driven by a genuine passion for acq
 
 ###
 
-<img align="right" height="200" src="https://25.media.tumblr.com/tumblr_m7uhjxCqHn1qekvhfo1_500.gif"  />
+<!--<img align="right" height="200" src="https://25.media.tumblr.com/tumblr_m7uhjxCqHn1qekvhfo1_500.gif"  />
 
-###
+###-->
 
-<div align="right">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width:520px; display: block;" />
-</div>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style=" display: block;" />
+
 
 ###
 
