@@ -16,7 +16,7 @@ Enthusiastic and self-motivated professional driven by a genuine passion for acq
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam221104&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 
 <a href="https://visitorbadge.io/status?path=Sam221104"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=Sam221104&label=Stalker%20Count&labelColor=%234169e1&countColor=%23ba68c8" /></a>
 
